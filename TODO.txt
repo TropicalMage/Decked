@@ -1,0 +1,18 @@
+Code
+	1 - Conveniense
+	2 - Scale everything
+		Labels
+		Bars
+		Text
+	3 - Use Rect
+	3 - Remove toast
+	3 - Reset cards after each round
+	4 - Have 2 Players share a square by shrinking them
+	5 - Resposition
+	6 - Options
+	7 - AI
+	8 - Code Cleanup
+	9 - Animations
+Pete
+	1 - Character Heads for the Render Board
+	2 - Animation stuff
